@@ -19,7 +19,7 @@ def extract_data(url, file_path):
     '''
     with session() as c:
         c.post('https://www.kaggle.com/account/login', data=payload)
-        with open(file_path, 'wb') as handle:
+        with open(file_path, 'w') as handle:
             response = c.get(url, stream=True)
             for block in response.iter_content(1024):
                 handle.write(block)

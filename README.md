@@ -1,7 +1,7 @@
-Titanic-DS
+titanic
 ==============================
 
-Titanic Data Science Challenge
+Titanic Survival Prediction Project
 
 Project Organization
 ------------
@@ -49,7 +49,3 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
-
-
---------
-
