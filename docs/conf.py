@@ -186,7 +186,7 @@ latex_documents = [
     ('index',
      'titanic.tex',
      u'titanic Documentation',
-     u"Abhishek Kumar", 'manual'),
+     u"Sanat Taori", 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -216,7 +216,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'titanic', u'titanic Documentation',
-     [u"Abhishek Kumar"], 1)
+     [u"Sanat Taori"], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -230,7 +230,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     ('index', 'titanic', u'titanic Documentation',
-     u"Abhishek Kumar", 'titanic',
+     u"Sanat Taori", 'titanic',
      'Titanic Survival Prediction Project', 'Miscellaneous'),
 ]
 
