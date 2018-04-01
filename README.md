@@ -49,3 +49,11 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+    ------------
+## Data Visualization    
+- [Data Analysis and Visualisation](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic_data_analysis.ipynb)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
