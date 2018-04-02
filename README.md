@@ -53,8 +53,9 @@ Project Organization
 ## Titanic Data Analysis    
 - [Data Analysis and Visualisation](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic_data_exploration_visualization.ipynb)
 
-- [Feature-Extraction](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic-organize-feature-extraction.ipynb)
+- [Feature Extraction](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic-organize-feature-extraction.ipynb)
 
+- [Classification - KNN](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/Classification-KNN.ipynb)
 
 ## License
 
