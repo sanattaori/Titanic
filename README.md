@@ -51,11 +51,13 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
     ------------
 ## Titanic Data Analysis    
-- [Data Analysis and Visualisation](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic_data_exploration_visualization.ipynb)
+- [Data Extraction](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/extract-titanic-data.ipynb)
+
+- [Data Exploration and Visualisation](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic_data_exploration_visualization.ipynb)
 
 - [Feature Extraction](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic-organize-feature-extraction.ipynb)
 
-- [Classification - KNN](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/Classification-KNN.ipynb)
+- [Classification](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/Classification.ipynb)
 
 ## License
 
