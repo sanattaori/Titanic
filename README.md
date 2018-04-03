@@ -53,7 +53,10 @@ Project Organization
 ## Titanic Data Analysis    
 - [Data Extraction](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/extract-titanic-data.ipynb)
 
-- [Data Exploration and Visualisation](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic_data_exploration_visualization.ipynb)
+- [Data Visualisation](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic_data_exploration_visualization.ipynb)
+
+- [Exploratory data analysis](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/EDA.ipynb)
+
 
 - [Feature Extraction](https://github.com/sanattaori/Titanic-DS/blob/master/notebooks/titanic-organize-feature-extraction.ipynb)
 
